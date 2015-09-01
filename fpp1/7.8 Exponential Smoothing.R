@@ -1,0 +1,1 @@
+# fit3 <- ses(oildata, h=3)
